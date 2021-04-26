@@ -16,8 +16,8 @@ Based on various market surveys, the consulting firm has gathered a large data s
 
 We could ask questions like:
  * What features affect the price of a car? 
-     * Is it the color, the brand, or year of make?
-     * Could it be the horsepower, or perhaps something else?
+ * Is it the color, the brand, or year of make?
+ * Could it be the horsepower, or perhaps something else?
 
 The model to predict the prices of cars will be used by management to understand exactly how prices vary with independent variables. 
 
